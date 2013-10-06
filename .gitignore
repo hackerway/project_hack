@@ -1,0 +1,9 @@
+*.pyc
+*~
+.project
+.pydevproject
+.settings
+*.swp
+*.idea
+build/
+src/
